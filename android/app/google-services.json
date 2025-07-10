@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54660727454",
+    "firebase_url": "https://sple-1197c-default-rtdb.firebaseio.com",
+    "project_id": "sple-1197c",
+    "storage_bucket": "sple-1197c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54660727454:android:ab45fe4c72dbc35c86318f",
+        "android_client_info": {
+          "package_name": "com.sple.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54660727454-6kof7u20i1sreq112kkjecq977uobsad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLVk91OCgJOnJ90b_uYu_mjgXKKJGOLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54660727454-6kof7u20i1sreq112kkjecq977uobsad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
