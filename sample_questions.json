@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What is the first-line treatment for hypertension in most patients?",
+    "options": ["ACE inhibitors", "Beta blockers", "Diuretics", "Calcium channel blockers"],
+    "correct_answer": 0,
+    "explanation": "ACE inhibitors are recommended as first-line therapy for most patients with hypertension according to current guidelines.",
+    "points": 1
+  },
+  {
+    "question": "Which medication is contraindicated in pregnancy for treating hypertension?",
+    "options": ["Methyldopa", "Labetalol", "ACE inhibitors", "Nifedipine"],
+    "correct_answer": 2,
+    "explanation": "ACE inhibitors are contraindicated in pregnancy due to teratogenic effects.",
+    "points": 1
+  },
+  {
+    "question": "What is the mechanism of action of metformin?",
+    "options": ["Increases insulin secretion", "Decreases hepatic glucose production", "Increases glucose uptake", "Delays gastric emptying"],
+    "correct_answer": 1,
+    "explanation": "Metformin primarily works by decreasing hepatic glucose production and improving insulin sensitivity.",
+    "points": 1
+  },
+  {
+    "question": "Which antibiotic is first-line for treating uncomplicated UTI in women?",
+    "options": ["Ciprofloxacin", "Trimethoprim-sulfamethoxazole", "Nitrofurantoin", "Amoxicillin"],
+    "correct_answer": 2,
+    "explanation": "Nitrofurantoin is recommended as first-line therapy for uncomplicated UTI in women.",
+    "points": 1
+  },
+  {
+    "question": "What is the normal range for serum creatinine in adults?",
+    "options": ["0.5-1.0 mg/dL", "0.7-1.3 mg/dL", "1.0-2.0 mg/dL", "1.5-2.5 mg/dL"],
+    "correct_answer": 1,
+    "explanation": "Normal serum creatinine ranges from 0.7-1.3 mg/dL in adults, with slight variations based on age, sex, and muscle mass.",
+    "points": 1
+  }
+]
